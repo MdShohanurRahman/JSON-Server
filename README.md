@@ -24,3 +24,8 @@ Create a db.json file with some data
 ```
 json-server --watch db.json
 ```
+
+#### Install faker
+```
+$ npm i faker
+```
